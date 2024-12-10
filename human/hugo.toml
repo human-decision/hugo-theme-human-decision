@@ -1,5 +1,0 @@
-baseURL = 'https://human-decision.github.io/'
-languageCode = 'en-us'
-title = 'Human decision'
-theme="hugo-theme-cleanwhite"
-
