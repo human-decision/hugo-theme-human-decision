@@ -1,0 +1,8 @@
+[submodule "human/public"]
+	path = human/public
+	url = https://github.com/human-decision/human-decision.github.io.git
+	branch = main
+[submodule "human/human-decision.github.io"]
+	path = human/human-decision.github.io
+	url = https://github.com/human-decision/human-decision.github.io.git
+	branch = main
