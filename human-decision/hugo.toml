@@ -14,10 +14,10 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   #header_image = "img/bc.jpg"
-  header_image = " "
+  header_image = ""
   SEOTitle = "Human-Centered & Neuro-Symbolic Decision Support in Circular Product Engineering"
   description = "Hello everyone! We are thrilled to present our work on Human-Centered & Neuro-Symbolic Decision Support in Circular Product Engineering. Our research is part of the DFG SPP 2443 initiative, addressing the growing importance of integrating Circular Economy (CE) principles into product development. This project emphasizes resource efficiency and human-centered solutions for assembly and disassembly processes."
-  keyword = "Human-Decision, Symbolic Model, Hybrid Symbolic Decision Support System (DSS), , Ontology, Knowledge Graph(KG), Reinforcement Learning, Product Modeling, , Human-Centered DSS Design"
+  keyword = "Human-Decision, Symbolic Model, Hybrid Symbolic Decision Support System (DSS), Ontology, Knowledge Graph(KG), Reinforcement Learning, Product Modeling, , Human-Centered DSS Design"
   slogan = "SP-2443"
   upstreamAttribution = true
 
