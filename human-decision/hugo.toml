@@ -13,7 +13,8 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/bc.jpg"
+  #header_image = "img/bc.jpg"
+  header_image = " "
   SEOTitle = "Human-Centered & Neuro-Symbolic Decision Support in Circular Product Engineering"
   description = "Hello everyone! We are thrilled to present our work on Human-Centered & Neuro-Symbolic Decision Support in Circular Product Engineering. Our research is part of the DFG SPP 2443 initiative, addressing the growing importance of integrating Circular Economy (CE) principles into product development. This project emphasizes resource efficiency and human-centered solutions for assembly and disassembly processes."
   keyword = "Human-Decision, Symbolic Model, Hybrid Symbolic Decision Support System (DSS), , Ontology, Knowledge Graph(KG), Reinforcement Learning, Product Modeling, , Human-Centered DSS Design"
@@ -63,8 +64,8 @@ home = ["HTML", "RSS", "Algolia"]
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   reward = true 
-  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
-
+  # reward_guide = "如果这篇文章对你有用,请随意打赏"
+  
   friends = true
   bookmarks = false
   about_me = true
